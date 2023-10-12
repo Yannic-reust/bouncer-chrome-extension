@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* Style for the overlay */
+#overlay-extension {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    z-index: 9999; /* Make sure it's on top of other elements */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style for overlay content (if added) */
+  #overlay-extension h1 {
+    color: white;
+    font-size: 24px;
+  }
+  
