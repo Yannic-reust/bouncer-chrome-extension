@@ -1,0 +1,17 @@
+{
+    "siteIsBad": false,
+    "data":[
+        {
+            "text":"google.com",
+            "url":""
+        },
+        {
+            "text":"x.com",
+            "url":""
+        },
+        {
+            "text":"meta.com",
+            "url":""
+        }
+    ]
+}
